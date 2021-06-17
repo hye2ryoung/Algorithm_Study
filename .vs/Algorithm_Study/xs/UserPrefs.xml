@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{2F5B72E9-259E-4CF1-8E27-1BE40622C880}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Section01/Board.cs">
+    <Files>
+      <File FileName="Section01/Program.cs" Line="23" Column="79" />
+      <File FileName="Section01/Board.cs" Line="174" Column="41" />
+      <File FileName="Section01/Player.cs" Line="38" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algorithm_Study" expanded="True">
+            <Node name="Section01" expanded="True">
+              <Node name="Board.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Algorithm_Study" expanded="True" selected="True">
+            <Node name="Section01" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>__data2</Value>
+          <Value>__data2</Value>
+          <Value>_data2</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Section01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
