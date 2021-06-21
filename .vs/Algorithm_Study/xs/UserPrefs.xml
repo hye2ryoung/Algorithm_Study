@@ -1,17 +1,23 @@
 ﻿<Properties StartupConfiguration="{2F5B72E9-259E-4CF1-8E27-1BE40622C880}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Section01/Board.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Section01/PriorityQueue.cs">
     <Files>
-      <File FileName="Section01/Program.cs" Line="23" Column="79" />
-      <File FileName="Section01/Board.cs" Line="174" Column="41" />
-      <File FileName="Section01/Player.cs" Line="38" Column="32" />
+      <File FileName="Section01/Program.cs" Line="29" Column="40" />
+      <File FileName="Section01/Board.cs" Line="180" Column="71" />
+      <File FileName="Section01/Player.cs" Line="64" Column="28" />
+      <File FileName="Section02/Stack_Que.cs" Line="33" Column="41" />
+      <File FileName="Section02/Graph.cs" Line="108" Column="10" />
+      <File FileName="Section02/Tree.cs" Line="74" Column="12" />
+      <File FileName="Section02/PriorityQueue.cs" Line="108" Column="14" />
+      <File FileName="Section01/PriorityQueue.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Algorithm_Study" expanded="True">
             <Node name="Section01" expanded="True">
-              <Node name="Board.cs" selected="True" />
+              <Node name="PriorityQueue.cs" selected="True" />
             </Node>
+            <Node name="Section02" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -24,9 +30,8 @@
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State>
-          <Value>__data2</Value>
-          <Value>__data2</Value>
-          <Value>_data2</Value>
+          <Value>stack</Value>
+          <Value>queue</Value>
         </State>
       </Pad>
     </Pads>
@@ -38,4 +43,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Section02 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
